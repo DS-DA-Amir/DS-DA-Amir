@@ -66,7 +66,7 @@ Also, a big a fan of Los Angeles Lakers since 2018.
 
 ## 📫 Let's connect!
 
-- 🌐 Portfolio: [pi.cs.oswego.edu/~akubanyc](https://pi.cs.oswego.edu/~akubanyc/)
-- 💼 LinkedIn: [amir-kubanychbekov](https://www.linkedin.com/in/amir-kubanychbekov-0b64a32a7)
-- 📧 Email: akubanyc@oswego.edu
-- 📷 Instagram: [aylanayin1337] (https://www.instagram.com/aylanayin1337/)
+[🌐 Portfolio](https://pi.cs.oswego.edu/~akubanyc/)
+[💼 LinkedIn](https://www.linkedin.com/in/amir-kubanychbekov-0b64a32a7)
+[📧 Email](akubanyc@oswego.edu)
+[📷 Instagram](https://www.instagram.com/aylanayin1337/)
