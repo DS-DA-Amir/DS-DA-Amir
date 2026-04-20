@@ -59,6 +59,7 @@ Resident Assistant with ResLife · Tour Guide & Office Worker for Admissions · 
 
 ## ⚽ Off campus
 
+I play football (soccer) and basketball in my free time.
 I am a big fan of Bayern Munich and Argentina National Football team since 2014. 
 Also, a big a fan of Los Angeles Lakers since 2018.
 
