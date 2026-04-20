@@ -1,4 +1,4 @@
-# Hi, I'm Amir 👋
+# Hi, my name is Amir 👋
 
 I am an Information Science student at SUNY Oswego (BA, Class of 2027), heading toward AI/ML. I split my time between data projects, web builds, and a handful of campus roles.
 
